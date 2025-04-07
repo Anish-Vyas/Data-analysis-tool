@@ -1,0 +1,501 @@
+Customer_ID,Age,Salary,Credit_Score,Purchase_History,Website_Visits,Product_Category,Gender,City,Purchase_Status
+1001,56,28343,749,9,22,Clothing,Male,Houston,1
+1002,69,38500,504,11,15,Groceries,Other,Miami,1
+1003,46,78222,425,1,2,Clothing,Female,Houston,0
+1004,32,54375,342,2,1,Automotive,Other,Chicago,1
+1005,60,34662,410,9,23,Electronics,Male,Houston,0
+1006,25,41964,482,1,23,Groceries,Other,Chicago,1
+1007,38,138429,394,12,26,Electronics,Male,New York,0
+1008,56,146692,673,12,11,Groceries,Other,Houston,1
+1009,36,84638,819,17,10,Automotive,Male,Miami,0
+1010,40,98666,659,2,18,Electronics,Male,Chicago,0
+1011,28,110067,580,6,18,Sports,Female,Miami,1
+1012,28,143937,494,13,17,Groceries,Male,Los Angeles,0
+1013,41,92215,494,19,26,Sports,Female,Chicago,1
+1014,53,94042,392,16,8,Electronics,Female,Houston,0
+1015,57,38284,360,11,15,Sports,Female,Chicago,0
+1016,41,97789,350,15,8,Sports,Other,Miami,0
+1017,20,109664,702,11,17,Electronics,Other,New York,0
+1018,39,118468,304,14,12,Automotive,Other,Chicago,1
+1019,19,86389,765,9,27,Sports,Other,Houston,0
+1020,41,34435,833,6,8,Sports,Male,Los Angeles,1
+1021,61,79340,704,19,25,Automotive,Male,New York,1
+1022,47,69078,812,4,14,Sports,Other,Los Angeles,0
+1023,55,103832,532,0,4,Sports,Male,Chicago,1
+1024,19,76293,823,16,1,Sports,Male,Miami,1
+1025,38,120981,645,2,1,Clothing,Female,Miami,1
+1026,50,103781,345,12,19,Automotive,Female,Houston,0
+1027,29,85403,845,13,16,Sports,Female,Miami,0
+1028,39,54124,377,17,14,Automotive,Female,New York,1
+1029,61,120435,372,3,21,Groceries,Male,Miami,1
+1030,42,68919,548,17,16,Groceries,Other,Houston,1
+1031,66,133761,346,4,5,Sports,Male,Chicago,0
+1032,44,146305,420,15,9,Automotive,Male,Chicago,1
+1033,59,60247,513,0,26,Automotive,Male,Miami,0
+1034,45,146172,538,13,28,Automotive,Female,Los Angeles,0
+1035,33,119758,355,14,2,Clothing,Female,Chicago,0
+1036,32,116747,649,8,18,Groceries,Female,Miami,1
+1037,64,87752,406,14,6,Automotive,Other,Houston,0
+1038,68,81573,347,16,9,Automotive,Male,Miami,0
+1039,61,84101,636,3,1,Clothing,Other,Chicago,1
+1040,69,127756,325,11,9,Clothing,Female,Houston,0
+1041,20,51646,556,4,25,Automotive,Other,Miami,0
+1042,54,129185,307,4,16,Electronics,Male,New York,0
+1043,68,48049,552,10,13,Automotive,Male,Houston,1
+1044,24,104605,602,5,9,Automotive,Female,New York,1
+1045,38,123116,355,6,21,Clothing,Female,Los Angeles,0
+1046,26,122379,825,13,13,Clothing,Other,Houston,1
+1047,56,93385,773,10,9,Automotive,Female,New York,1
+1048,35,65158,327,12,11,Automotive,Female,Chicago,0
+1049,21,90417,377,1,4,Automotive,Male,Chicago,1
+1050,42,48289,515,6,2,Clothing,Female,Los Angeles,1
+1051,31,135226,685,19,29,Automotive,Female,Houston,1
+1052,67,125793,664,3,6,Automotive,Male,Houston,0
+1053,26,34823,825,7,14,Sports,Male,Houston,1
+1054,43,85160,611,19,4,Electronics,Other,Los Angeles,1
+1055,19,66975,306,18,6,Groceries,Female,Houston,0
+1056,37,34540,302,12,19,Electronics,Male,Chicago,0
+1057,45,41364,662,13,6,Sports,Other,New York,0
+1058,64,29611,807,9,2,Groceries,Other,Chicago,0
+1059,24,52663,573,10,18,Automotive,Female,Chicago,1
+1060,61,76991,805,1,13,Sports,Female,New York,0
+1061,25,82679,314,8,9,Automotive,Other,Chicago,0
+1062,64,129182,491,16,23,Clothing,Male,Los Angeles,1
+1063,52,55977,784,2,19,Sports,Other,New York,0
+1064,31,119704,327,5,13,Clothing,Female,Chicago,1
+1065,34,74115,338,4,11,Sports,Male,Miami,0
+1066,53,116007,572,4,1,Sports,Male,Chicago,0
+1067,67,113223,530,14,24,Clothing,Other,Los Angeles,0
+1068,57,85890,385,16,22,Groceries,Female,Houston,0
+1069,21,91387,773,8,7,Electronics,Other,Chicago,0
+1070,19,43071,425,2,25,Automotive,Other,Houston,1
+1071,23,84275,836,19,21,Sports,Other,Miami,1
+1072,59,97369,444,16,15,Automotive,Male,Chicago,0
+1073,21,36938,824,9,1,Clothing,Male,New York,1
+1074,46,60195,511,2,12,Automotive,Female,Houston,1
+1075,35,116680,324,17,26,Clothing,Female,Miami,1
+1076,43,29000,693,17,7,Automotive,Other,New York,0
+1077,61,95588,366,16,15,Electronics,Other,New York,0
+1078,51,126042,532,2,21,Electronics,Other,New York,0
+1079,27,118610,408,2,19,Electronics,Female,New York,1
+1080,53,145420,445,5,28,Electronics,Male,Chicago,1
+1081,31,128691,410,12,29,Electronics,Male,Chicago,0
+1082,48,131306,527,14,25,Electronics,Other,Chicago,0
+1083,65,122856,410,8,1,Clothing,Other,Miami,1
+1084,32,63304,769,3,17,Sports,Other,Miami,1
+1085,25,136783,333,13,17,Automotive,Other,Miami,1
+1086,31,94449,668,4,3,Electronics,Female,Los Angeles,1
+1087,40,107986,724,1,12,Clothing,Male,Miami,0
+1088,57,114643,817,10,6,Clothing,Other,Chicago,1
+1089,38,45764,581,8,26,Clothing,Female,Chicago,1
+1090,33,133940,619,2,11,Sports,Other,Los Angeles,0
+1091,62,111027,742,8,3,Automotive,Other,Los Angeles,1
+1092,35,63494,614,2,8,Sports,Male,Miami,1
+1093,64,28373,676,1,14,Groceries,Other,Houston,0
+1094,41,37161,588,11,14,Clothing,Male,Los Angeles,1
+1095,43,122532,736,9,10,Groceries,Male,New York,1
+1096,42,117658,576,8,2,Electronics,Male,Chicago,1
+1097,62,148633,802,14,14,Electronics,Female,New York,0
+1098,58,125386,815,7,9,Sports,Female,Chicago,0
+1099,46,52350,649,4,3,Automotive,Male,Chicago,1
+1100,32,118008,745,10,21,Groceries,Other,Los Angeles,0
+1101,62,119297,649,1,26,Automotive,Male,Los Angeles,1
+1102,18,50351,436,14,8,Sports,Other,New York,1
+1103,42,113668,542,5,16,Electronics,Male,Chicago,0
+1104,24,139585,842,7,2,Automotive,Other,New York,1
+1105,26,40305,339,4,6,Automotive,Female,Houston,1
+1106,41,100353,528,15,28,Electronics,Other,New York,0
+1107,18,101797,847,17,21,Groceries,Male,Miami,1
+1108,61,90953,522,5,29,Electronics,Female,New York,1
+1109,25,82458,305,4,26,Automotive,Other,Miami,1
+1110,41,132112,621,15,25,Groceries,Other,Miami,1
+1111,28,45358,767,12,12,Groceries,Other,Miami,0
+1112,68,28267,374,4,5,Electronics,Other,Houston,1
+1113,34,107745,303,12,2,Automotive,Other,New York,1
+1114,25,114588,417,16,16,Sports,Female,New York,1
+1115,52,63513,803,17,5,Automotive,Female,Houston,1
+1116,52,51092,740,7,15,Clothing,Female,Chicago,0
+1117,50,36338,493,12,12,Sports,Female,Los Angeles,1
+1118,22,25412,691,18,4,Groceries,Male,New York,0
+1119,59,32543,325,2,15,Sports,Female,Los Angeles,0
+1120,56,130891,734,7,11,Groceries,Other,Houston,0
+1121,58,58496,472,1,16,Groceries,Other,Chicago,1
+1122,45,85692,599,7,23,Sports,Female,Chicago,1
+1123,24,114084,625,12,6,Groceries,Other,Chicago,1
+1124,26,117920,709,12,14,Groceries,Female,Houston,1
+1125,25,148555,417,0,18,Clothing,Other,Miami,1
+1126,29,69425,524,5,12,Automotive,Male,Miami,1
+1127,51,63756,831,18,27,Automotive,Male,Los Angeles,0
+1128,50,43888,412,15,11,Clothing,Female,Miami,0
+1129,65,60735,439,7,13,Sports,Female,Miami,0
+1130,40,72295,300,0,21,Electronics,Female,Chicago,1
+1131,41,142474,389,15,23,Electronics,Other,Chicago,1
+1132,54,139352,619,8,11,Electronics,Female,Los Angeles,0
+1133,52,108042,849,12,23,Clothing,Male,New York,0
+1134,61,110999,438,10,16,Clothing,Other,Los Angeles,1
+1135,57,42955,810,12,15,Groceries,Female,Los Angeles,0
+1136,39,62841,558,9,21,Electronics,Other,Houston,1
+1137,44,95640,309,3,28,Sports,Other,Houston,1
+1138,52,90510,560,5,15,Sports,Female,Los Angeles,0
+1139,18,59911,471,6,25,Electronics,Other,Los Angeles,0
+1140,52,84031,312,4,4,Electronics,Male,Los Angeles,1
+1141,54,113726,467,10,11,Electronics,Male,Miami,1
+1142,64,32357,620,12,19,Clothing,Other,Houston,1
+1143,31,57479,618,18,15,Clothing,Female,Los Angeles,1
+1144,20,86476,628,9,4,Clothing,Other,Chicago,0
+1145,18,69811,849,9,21,Automotive,Male,Chicago,1
+1146,22,61208,718,10,13,Sports,Other,Miami,1
+1147,43,45150,394,6,22,Sports,Other,Miami,1
+1148,31,96180,617,17,19,Groceries,Male,New York,0
+1149,56,68286,535,3,2,Clothing,Other,New York,1
+1150,44,137856,633,1,14,Automotive,Other,New York,1
+1151,26,93450,675,13,29,Automotive,Female,Miami,0
+1152,32,46352,758,12,4,Sports,Female,Miami,0
+1153,32,80069,436,11,16,Clothing,Male,Miami,1
+1154,43,136888,846,6,21,Groceries,Male,Chicago,0
+1155,59,135448,812,1,20,Clothing,Male,Miami,0
+1156,30,39397,595,12,14,Electronics,Female,Chicago,0
+1157,68,66555,619,13,27,Clothing,Male,New York,1
+1158,49,71959,648,16,29,Electronics,Male,New York,1
+1159,56,25728,528,8,15,Electronics,Male,New York,1
+1160,66,75517,569,16,28,Groceries,Female,Los Angeles,0
+1161,69,144180,590,7,3,Sports,Other,Los Angeles,1
+1162,49,91234,464,1,8,Clothing,Male,Houston,1
+1163,21,64954,304,12,16,Electronics,Other,Houston,1
+1164,47,72280,678,2,10,Clothing,Male,Houston,1
+1165,54,104459,377,15,4,Sports,Other,Los Angeles,0
+1166,40,41779,709,5,18,Sports,Female,Los Angeles,1
+1167,56,88932,431,18,2,Automotive,Female,Houston,0
+1168,62,97936,341,6,17,Sports,Male,Houston,1
+1169,32,49466,388,9,13,Groceries,Other,Miami,0
+1170,60,61939,701,8,4,Electronics,Female,Houston,0
+1171,46,94896,595,1,26,Automotive,Male,Miami,0
+1172,53,60270,594,14,25,Groceries,Male,Chicago,1
+1173,30,84163,825,4,11,Clothing,Female,Los Angeles,0
+1174,49,107637,721,3,7,Electronics,Female,Houston,1
+1175,24,76934,322,19,12,Sports,Male,Los Angeles,0
+1176,68,89895,442,3,10,Electronics,Other,Los Angeles,0
+1177,39,57307,444,17,7,Clothing,Other,Los Angeles,1
+1178,45,79098,524,3,13,Automotive,Other,Chicago,0
+1179,19,85921,802,16,7,Automotive,Male,New York,0
+1180,59,30486,403,11,24,Automotive,Female,Houston,1
+1181,62,33335,338,16,17,Sports,Male,New York,0
+1182,23,111900,497,9,10,Groceries,Female,New York,0
+1183,45,146954,690,0,29,Groceries,Other,New York,0
+1184,45,127795,478,17,10,Electronics,Other,Los Angeles,1
+1185,61,114112,747,17,24,Sports,Female,Miami,1
+1186,61,122203,799,13,4,Automotive,Female,Los Angeles,1
+1187,37,36130,314,14,20,Automotive,Male,Los Angeles,1
+1188,47,112508,588,11,4,Clothing,Other,New York,0
+1189,28,130955,777,3,22,Clothing,Male,Los Angeles,0
+1190,45,143324,530,2,7,Automotive,Male,New York,1
+1191,42,85566,719,19,22,Automotive,Male,Miami,0
+1192,56,91703,456,11,1,Sports,Other,Houston,0
+1193,50,52192,849,6,12,Groceries,Male,New York,0
+1194,18,26062,740,10,24,Clothing,Male,Miami,0
+1195,44,109076,396,0,13,Groceries,Male,Houston,1
+1196,69,114780,710,5,10,Sports,Male,Chicago,0
+1197,30,46545,588,14,15,Automotive,Male,New York,1
+1198,58,46689,553,14,27,Groceries,Male,New York,0
+1199,20,36174,495,18,13,Automotive,Other,Chicago,1
+1200,56,113461,821,10,23,Automotive,Male,Chicago,0
+1201,23,128033,816,1,22,Electronics,Female,New York,0
+1202,25,34348,417,13,22,Groceries,Male,Chicago,1
+1203,44,48714,458,1,21,Groceries,Male,Los Angeles,1
+1204,26,63102,527,3,22,Automotive,Other,Houston,0
+1205,54,99460,515,16,28,Sports,Other,Houston,0
+1206,50,127634,314,2,9,Electronics,Female,Houston,0
+1207,68,114930,456,12,26,Automotive,Female,Los Angeles,0
+1208,59,31801,560,8,9,Clothing,Other,Chicago,0
+1209,61,128150,456,6,15,Clothing,Other,Miami,0
+1210,41,97267,346,14,10,Electronics,Male,Chicago,0
+1211,32,73136,623,10,24,Sports,Other,New York,0
+1212,49,48625,429,19,26,Automotive,Female,Houston,1
+1213,49,107873,710,1,25,Groceries,Male,Chicago,1
+1214,41,125843,394,14,29,Electronics,Female,Miami,1
+1215,58,97592,591,13,10,Sports,Male,New York,0
+1216,69,102052,582,19,8,Groceries,Other,Los Angeles,0
+1217,66,69261,368,10,24,Clothing,Female,Los Angeles,1
+1218,66,26542,310,2,16,Clothing,Male,Miami,0
+1219,69,46677,553,16,17,Groceries,Male,New York,0
+1220,29,71732,849,11,26,Electronics,Other,Houston,1
+1221,56,75343,433,14,27,Clothing,Other,Chicago,1
+1222,19,64081,322,15,5,Automotive,Other,New York,1
+1223,20,87856,645,4,4,Groceries,Female,Los Angeles,0
+1224,66,118105,601,19,18,Groceries,Male,Miami,0
+1225,54,113858,662,5,24,Clothing,Other,Miami,1
+1226,66,44065,695,18,19,Electronics,Female,Chicago,0
+1227,34,149097,517,4,4,Automotive,Female,Miami,1
+1228,66,108460,440,2,28,Electronics,Female,Miami,1
+1229,19,113092,509,0,7,Sports,Other,New York,1
+1230,19,79693,759,5,10,Sports,Other,Houston,0
+1231,45,51962,655,14,25,Clothing,Male,Chicago,0
+1232,40,53295,623,1,18,Clothing,Male,New York,1
+1233,54,38807,432,2,19,Clothing,Other,Houston,1
+1234,49,67348,426,16,4,Sports,Female,New York,1
+1235,50,51432,405,11,10,Electronics,Female,New York,0
+1236,18,108285,677,17,1,Electronics,Female,Miami,0
+1237,36,131995,350,14,23,Clothing,Male,Houston,1
+1238,19,116792,328,11,18,Automotive,Female,Chicago,1
+1239,61,82854,761,15,5,Electronics,Male,Chicago,1
+1240,43,65262,595,7,15,Sports,Male,Houston,0
+1241,49,62080,596,13,17,Groceries,Female,Miami,1
+1242,23,26324,706,16,3,Groceries,Female,Los Angeles,1
+1243,49,116267,704,7,12,Groceries,Other,New York,1
+1244,21,149707,645,14,2,Automotive,Other,Miami,0
+1245,28,60909,719,13,1,Clothing,Female,Houston,0
+1246,34,114339,481,17,23,Sports,Male,New York,1
+1247,55,44870,300,19,21,Automotive,Male,Chicago,0
+1248,41,59578,670,6,17,Sports,Male,Los Angeles,0
+1249,22,97124,730,2,22,Sports,Male,Chicago,1
+1250,69,142611,608,11,16,Clothing,Male,Houston,0
+1251,51,128605,436,2,5,Groceries,Other,New York,1
+1252,23,51790,501,19,15,Clothing,Female,Houston,0
+1253,39,143874,735,13,3,Automotive,Other,New York,1
+1254,28,50289,612,14,28,Automotive,Male,Miami,1
+1255,65,80129,416,13,7,Automotive,Male,Los Angeles,0
+1256,33,118714,543,6,11,Clothing,Male,Miami,0
+1257,50,119246,836,16,10,Sports,Male,Miami,0
+1258,26,40485,374,11,9,Sports,Female,Houston,0
+1259,23,69482,685,19,14,Electronics,Male,Los Angeles,1
+1260,33,111188,509,3,13,Automotive,Female,New York,1
+1261,46,29748,774,8,29,Sports,Male,New York,0
+1262,20,111769,717,5,25,Electronics,Female,Chicago,0
+1263,37,34435,646,15,25,Sports,Other,New York,0
+1264,53,28709,828,1,2,Automotive,Male,Houston,1
+1265,36,148961,478,7,3,Groceries,Female,Miami,0
+1266,43,55355,481,10,7,Automotive,Other,Miami,1
+1267,20,80771,324,12,21,Clothing,Male,Miami,1
+1268,36,82799,479,16,18,Sports,Male,Los Angeles,1
+1269,37,38116,800,7,3,Sports,Male,New York,0
+1270,49,50470,460,17,10,Clothing,Female,Houston,1
+1271,24,67344,476,17,22,Clothing,Female,Los Angeles,0
+1272,69,67918,584,13,29,Groceries,Other,Chicago,0
+1273,58,77224,362,14,7,Sports,Female,Houston,1
+1274,50,64298,455,5,9,Sports,Female,Houston,1
+1275,57,133492,768,10,17,Groceries,Male,Houston,0
+1276,56,105219,348,12,11,Electronics,Male,Miami,0
+1277,35,86629,383,0,7,Groceries,Male,Houston,0
+1278,57,91040,660,5,24,Automotive,Male,New York,0
+1279,18,124518,447,8,28,Sports,Male,Houston,0
+1280,28,124835,641,7,14,Clothing,Male,Miami,0
+1281,45,53016,775,10,19,Automotive,Male,Houston,0
+1282,42,48960,362,18,4,Sports,Other,Chicago,1
+1283,67,58591,659,8,26,Groceries,Other,Chicago,1
+1284,40,107848,626,16,6,Automotive,Other,Miami,1
+1285,48,128333,440,11,10,Sports,Other,New York,0
+1286,47,136732,514,13,7,Electronics,Male,New York,1
+1287,59,139821,734,14,13,Electronics,Other,Los Angeles,1
+1288,52,92641,617,15,14,Clothing,Male,Miami,1
+1289,24,61395,331,19,4,Sports,Other,Houston,1
+1290,33,136276,584,0,8,Electronics,Female,Miami,1
+1291,43,47700,604,9,5,Groceries,Other,Los Angeles,1
+1292,65,59620,728,7,1,Sports,Other,Miami,0
+1293,69,128214,776,17,4,Groceries,Male,Miami,1
+1294,66,45559,585,0,3,Groceries,Other,Los Angeles,1
+1295,19,118045,443,1,9,Electronics,Female,New York,1
+1296,18,118396,723,0,8,Sports,Male,Houston,1
+1297,65,86642,318,0,1,Automotive,Male,Los Angeles,0
+1298,29,101539,317,8,27,Electronics,Other,Chicago,0
+1299,22,46732,670,12,6,Electronics,Male,New York,1
+1300,54,116362,474,0,9,Sports,Male,Chicago,1
+1301,49,55354,493,12,7,Sports,Male,New York,1
+1302,26,38843,801,19,4,Groceries,Male,Houston,0
+1303,58,135008,412,6,13,Sports,Male,Houston,0
+1304,52,139065,413,1,17,Groceries,Male,Miami,1
+1305,36,96726,521,5,28,Electronics,Female,Chicago,1
+1306,65,42640,563,6,2,Clothing,Other,New York,1
+1307,33,77528,354,13,28,Automotive,Female,Houston,0
+1308,20,63413,757,17,5,Electronics,Male,Los Angeles,1
+1309,37,77638,461,14,12,Sports,Male,Houston,0
+1310,41,77736,679,1,27,Automotive,Other,Los Angeles,1
+1311,50,132892,386,9,21,Clothing,Female,New York,0
+1312,41,135133,354,11,8,Clothing,Other,Houston,0
+1313,69,131357,775,16,6,Groceries,Female,Houston,1
+1314,28,93866,477,7,8,Automotive,Male,New York,1
+1315,66,44087,690,10,18,Groceries,Other,Houston,0
+1316,25,66430,648,2,3,Electronics,Other,Los Angeles,1
+1317,53,49504,307,5,22,Automotive,Male,Houston,0
+1318,55,32114,612,8,12,Electronics,Other,Chicago,0
+1319,57,103859,742,5,29,Groceries,Female,Miami,0
+1320,37,124657,627,8,26,Automotive,Female,Los Angeles,0
+1321,52,35975,353,6,3,Groceries,Female,Chicago,1
+1322,65,36023,538,8,22,Automotive,Female,New York,0
+1323,42,46447,528,17,6,Groceries,Male,Los Angeles,0
+1324,52,115469,350,11,2,Clothing,Other,Miami,1
+1325,42,48959,563,7,23,Groceries,Female,Miami,0
+1326,46,91203,717,7,12,Clothing,Male,New York,1
+1327,35,144156,395,17,2,Groceries,Other,New York,0
+1328,63,54703,387,19,6,Automotive,Other,Los Angeles,1
+1329,35,34337,377,14,17,Automotive,Male,Houston,0
+1330,19,71427,587,6,3,Automotive,Male,New York,0
+1331,52,146507,419,10,2,Sports,Female,Houston,0
+1332,33,86529,790,19,23,Electronics,Other,Chicago,0
+1333,58,127023,751,15,20,Automotive,Other,Miami,0
+1334,53,109665,799,3,8,Clothing,Male,Houston,1
+1335,50,130787,464,5,22,Automotive,Other,Miami,1
+1336,21,56921,481,2,12,Sports,Female,Houston,1
+1337,50,58307,768,8,26,Clothing,Other,Chicago,1
+1338,31,52355,306,9,4,Sports,Male,New York,0
+1339,38,128268,629,13,5,Clothing,Male,Chicago,0
+1340,65,29835,450,10,13,Groceries,Female,New York,0
+1341,37,45159,384,17,29,Electronics,Female,New York,0
+1342,25,129346,446,11,15,Electronics,Other,Miami,1
+1343,24,72605,680,11,25,Sports,Other,Chicago,1
+1344,20,146790,847,12,23,Electronics,Male,Houston,0
+1345,34,130616,584,12,16,Sports,Female,Chicago,0
+1346,50,63088,381,18,10,Sports,Female,Miami,1
+1347,65,103752,813,18,25,Sports,Female,New York,1
+1348,29,80284,822,13,23,Electronics,Other,Miami,0
+1349,68,82043,685,3,16,Sports,Female,Los Angeles,1
+1350,39,60547,770,12,12,Electronics,Male,Los Angeles,1
+1351,39,122007,418,7,17,Sports,Male,Houston,0
+1352,63,107844,695,18,16,Automotive,Other,Miami,0
+1353,47,52532,831,11,12,Sports,Other,Houston,1
+1354,55,59349,560,17,8,Clothing,Female,Houston,1
+1355,55,147402,555,5,20,Sports,Other,Los Angeles,1
+1356,62,143012,525,17,3,Groceries,Male,Houston,0
+1357,68,70445,352,18,16,Sports,Female,Los Angeles,0
+1358,25,30713,799,4,13,Clothing,Male,New York,1
+1359,44,81178,805,8,23,Clothing,Female,Miami,1
+1360,44,74407,663,2,28,Electronics,Other,Houston,0
+1361,51,95340,579,9,19,Automotive,Female,Los Angeles,1
+1362,38,75990,457,18,8,Sports,Female,Chicago,1
+1363,47,100672,358,2,22,Electronics,Male,Houston,1
+1364,50,90545,427,14,5,Automotive,Male,New York,1
+1365,45,109791,414,0,20,Sports,Female,New York,1
+1366,64,83141,508,6,8,Groceries,Other,Chicago,0
+1367,50,48793,825,11,24,Sports,Other,Los Angeles,1
+1368,22,81570,820,16,12,Clothing,Male,Houston,0
+1369,65,120084,536,19,1,Clothing,Other,Los Angeles,1
+1370,36,62892,580,4,25,Groceries,Male,New York,0
+1371,21,26015,658,3,21,Electronics,Other,Los Angeles,1
+1372,52,149704,500,11,20,Automotive,Female,New York,0
+1373,66,86813,577,19,6,Sports,Male,Los Angeles,0
+1374,34,52712,534,17,22,Clothing,Male,Chicago,0
+1375,61,125497,793,16,18,Electronics,Female,Miami,0
+1376,45,33415,303,18,8,Groceries,Male,Chicago,1
+1377,47,136854,741,8,7,Clothing,Other,Chicago,1
+1378,46,137816,328,3,1,Groceries,Other,Miami,1
+1379,63,87292,408,1,21,Sports,Male,Miami,0
+1380,23,48833,374,3,16,Automotive,Other,Houston,0
+1381,52,29158,445,1,12,Clothing,Male,Houston,0
+1382,58,87680,427,14,6,Clothing,Female,Chicago,0
+1383,54,45309,341,1,20,Sports,Male,Chicago,1
+1384,41,31970,655,3,2,Electronics,Female,New York,0
+1385,46,97474,340,5,29,Automotive,Other,New York,0
+1386,66,111704,333,6,14,Clothing,Female,Houston,0
+1387,63,71540,316,9,4,Automotive,Other,Houston,0
+1388,48,45384,452,18,1,Clothing,Male,New York,1
+1389,52,43017,677,18,23,Automotive,Other,New York,1
+1390,50,100880,641,11,18,Groceries,Male,Los Angeles,0
+1391,69,130570,326,2,13,Clothing,Male,Los Angeles,0
+1392,38,33702,586,12,2,Automotive,Female,New York,0
+1393,49,25384,467,17,9,Electronics,Female,Los Angeles,0
+1394,40,25404,567,7,21,Groceries,Female,Miami,0
+1395,50,65943,754,14,2,Groceries,Female,Houston,1
+1396,20,72926,700,0,27,Electronics,Other,Houston,1
+1397,35,54189,775,2,25,Automotive,Other,New York,1
+1398,42,37763,429,7,9,Sports,Other,Chicago,0
+1399,59,43384,662,3,1,Electronics,Male,New York,0
+1400,48,85100,591,15,11,Automotive,Other,Los Angeles,1
+1401,20,123142,670,9,3,Electronics,Other,Chicago,1
+1402,57,34860,328,11,20,Electronics,Other,Los Angeles,1
+1403,63,129293,448,13,23,Clothing,Female,Miami,0
+1404,41,105642,595,13,26,Automotive,Other,Los Angeles,1
+1405,67,75612,310,1,4,Sports,Male,Miami,0
+1406,49,48574,811,4,18,Clothing,Female,Miami,1
+1407,64,48524,412,4,23,Electronics,Male,Los Angeles,1
+1408,39,94172,486,5,6,Electronics,Other,Los Angeles,1
+1409,40,35916,526,12,3,Electronics,Female,Miami,0
+1410,19,29809,609,8,22,Automotive,Male,Chicago,1
+1411,44,57201,397,14,11,Automotive,Other,Miami,0
+1412,59,78330,354,13,15,Clothing,Male,Houston,0
+1413,19,38456,705,6,22,Sports,Male,Miami,0
+1414,43,138748,368,19,28,Clothing,Male,Chicago,1
+1415,34,81397,611,1,5,Groceries,Other,Houston,0
+1416,57,146288,588,6,20,Electronics,Other,New York,0
+1417,50,63765,847,5,10,Electronics,Male,New York,1
+1418,26,59816,447,16,12,Electronics,Female,Chicago,0
+1419,60,70106,766,1,15,Clothing,Female,Miami,1
+1420,65,78932,543,2,17,Clothing,Other,Los Angeles,0
+1421,56,42100,790,4,10,Electronics,Other,Chicago,0
+1422,46,82091,806,4,6,Clothing,Other,Houston,1
+1423,59,46949,664,0,18,Automotive,Other,Houston,0
+1424,43,95080,781,7,13,Automotive,Other,New York,0
+1425,52,62744,500,11,3,Clothing,Female,Houston,1
+1426,67,70543,453,3,24,Electronics,Other,Chicago,1
+1427,42,133319,749,12,10,Clothing,Male,Houston,1
+1428,41,117193,800,14,14,Clothing,Male,Chicago,0
+1429,30,61187,372,10,6,Clothing,Female,Los Angeles,0
+1430,24,137734,595,9,3,Groceries,Male,New York,1
+1431,53,32239,316,2,16,Automotive,Female,Houston,1
+1432,62,149454,516,13,7,Sports,Female,Chicago,1
+1433,37,39489,360,15,20,Sports,Male,Miami,1
+1434,18,139937,341,9,14,Groceries,Other,New York,1
+1435,25,83017,324,9,9,Clothing,Male,Los Angeles,0
+1436,63,86877,338,11,15,Groceries,Male,Chicago,0
+1437,33,68125,430,8,21,Groceries,Female,Los Angeles,1
+1438,31,74922,797,0,3,Electronics,Male,Los Angeles,0
+1439,29,119074,528,4,2,Automotive,Female,Houston,0
+1440,68,57049,407,19,27,Sports,Other,Houston,1
+1441,40,62131,471,7,2,Clothing,Other,Chicago,1
+1442,32,67944,734,10,3,Sports,Other,Miami,0
+1443,45,140765,777,11,18,Sports,Male,Chicago,0
+1444,51,98963,401,0,14,Automotive,Female,Miami,0
+1445,19,131884,823,19,20,Sports,Other,Los Angeles,1
+1446,49,49285,574,10,18,Sports,Female,New York,1
+1447,40,62626,343,4,10,Groceries,Female,Chicago,0
+1448,39,67808,316,14,25,Automotive,Other,Chicago,0
+1449,68,113464,629,4,2,Electronics,Other,Miami,1
+1450,42,78871,796,11,25,Clothing,Female,Los Angeles,0
+1451,39,44198,311,4,29,Sports,Other,Los Angeles,1
+1452,39,44758,617,16,22,Clothing,Female,Miami,1
+1453,66,40254,515,16,1,Electronics,Female,Los Angeles,0
+1454,69,69238,638,11,4,Clothing,Other,Houston,1
+1455,59,26252,380,14,14,Electronics,Male,New York,0
+1456,23,64764,784,14,1,Groceries,Other,Chicago,0
+1457,32,102709,673,5,14,Sports,Male,New York,1
+1458,60,62441,499,11,16,Electronics,Female,Chicago,0
+1459,54,117234,836,19,22,Clothing,Female,Houston,1
+1460,50,78682,765,17,14,Sports,Male,Los Angeles,1
+1461,25,84494,388,13,29,Groceries,Female,Miami,0
+1462,61,106317,567,1,20,Sports,Male,Houston,0
+1463,61,90215,788,8,3,Electronics,Male,New York,0
+1464,22,103587,837,4,3,Groceries,Female,Miami,0
+1465,56,130185,346,19,9,Clothing,Male,Los Angeles,0
+1466,21,31949,587,0,6,Groceries,Other,Houston,0
+1467,23,132825,315,2,25,Groceries,Other,Miami,0
+1468,62,80393,700,5,13,Automotive,Female,Houston,1
+1469,49,98553,385,4,21,Groceries,Female,Houston,1
+1470,69,31941,549,4,2,Groceries,Male,Los Angeles,1
+1471,47,50934,690,0,8,Sports,Male,Chicago,0
+1472,64,48386,634,16,21,Clothing,Male,Miami,0
+1473,52,86886,818,18,2,Sports,Male,Los Angeles,1
+1474,57,100745,436,13,4,Sports,Other,Houston,0
+1475,69,108251,797,11,25,Electronics,Other,Los Angeles,0
+1476,33,119456,776,9,15,Sports,Female,Chicago,1
+1477,30,78413,522,19,4,Automotive,Male,Miami,1
+1478,67,81800,671,17,13,Automotive,Male,Chicago,1
+1479,59,122239,701,10,28,Electronics,Female,New York,0
+1480,47,67318,742,1,12,Clothing,Male,Miami,1
+1481,36,144803,789,17,28,Clothing,Male,Chicago,1
+1482,34,95173,572,6,13,Sports,Male,Houston,1
+1483,36,95390,825,14,14,Sports,Male,Miami,1
+1484,45,77329,458,10,20,Sports,Male,Miami,1
+1485,43,147418,451,17,18,Clothing,Female,Los Angeles,1
+1486,54,68088,487,11,29,Groceries,Male,Houston,0
+1487,43,141868,397,5,28,Automotive,Female,New York,1
+1488,40,128196,430,19,6,Groceries,Male,Chicago,1
+1489,26,64811,470,12,29,Groceries,Other,Los Angeles,1
+1490,29,139825,482,19,11,Clothing,Other,Chicago,0
+1491,18,80479,663,15,2,Groceries,Other,New York,0
+1492,18,110392,338,17,28,Electronics,Other,New York,1
+1493,64,112369,826,9,23,Sports,Female,Miami,1
+1494,51,142520,796,7,19,Electronics,Female,New York,1
+1495,49,44963,815,17,19,Automotive,Male,Chicago,1
+1496,65,80123,648,0,5,Sports,Other,Houston,1
+1497,42,127468,696,7,19,Groceries,Female,Houston,1
+1498,57,117705,460,5,2,Automotive,Male,Miami,1
+1499,62,98477,315,4,10,Sports,Male,Chicago,1
+1500,18,39388,792,14,25,Groceries,Female,Chicago,1
